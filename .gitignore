@@ -21,3 +21,4 @@ agent-runtime/package-lock.json
 # session tool residue
 .mimosa/
 .zcode/
+**/node_modules/
